@@ -11,8 +11,7 @@ A full-stack rental management application built for the Odoo Hackathon. This pl
 ---
 
 ### 🔴 Live Demo
-
-**[View the live application here]** `[https://rentalapp-szo5.onrender.com/]`
+[View the live application here](https://rentalapp-szo5.onrender.com/)
 
 ---
 
